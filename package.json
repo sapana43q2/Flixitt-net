@@ -1,0 +1,9 @@
+{
+  "name": "ls",
+  "version": "cd C:\\\\Users\\\\HeLL0\\\\Desktop\\\\Netflix-Clone",
+  "description": "ls",
+  "main": "index.js",
+  "author": "q",
+  "license": "clear",
+  "private": true
+}
